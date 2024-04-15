@@ -1,6 +1,6 @@
 
 TITLE: 
-CeUmet - 100% Fully Responsive Free HTML5 Bootstrap Template
+CeUmet - 100% Fully Responsive HTML5 Bootstrap
 
 AUTHOR:
 DEVELOPED by Guille Fernandez
@@ -38,9 +38,5 @@ Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
 
 
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
 
-Demo Images:
-http://unsplash.com
 
